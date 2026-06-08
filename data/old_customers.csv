@@ -1,0 +1,101 @@
+customer_id,name,age,gender,city,category,total_spent,purchase_count,last_purchase_days,churn,product
+1001,John1,43,Female,Bangalore,Grocery,45828,3,151,1,Sugar
+1002,Deepika2,27,Female,Hyderabad,Fashion,6197,1,180,0,T-Shirt
+1003,Sita3,39,Female,Bangalore,Beauty,35366,19,67,1,Lipstick
+1004,Kavya4,34,Male,Hyderabad,Beauty,40642,2,75,0,Shampoo
+1005,Arjun5,37,Female,Chennai,Grocery,45938,19,174,1,Rice Bag
+1006,Kiran6,34,Female,Vijayawada,Electronics,15077,18,101,1,Smart Watch
+1007,John7,59,Female,Hyderabad,Grocery,14855,5,34,0,Sugar
+1008,Meena8,35,Male,Hyderabad,Beauty,5224,8,33,0,Lipstick
+1009,Sai9,28,Female,Hyderabad,Grocery,10779,4,126,0,Oil Packet
+1010,Anjali10,23,Female,Chennai,Beauty,4336,11,51,0,Shampoo
+1011,Anjali11,36,Male,Chennai,Electronics,2192,17,143,1,Keyboard
+1012,Deepika12,21,Female,Bangalore,Beauty,47399,6,9,1,Face Cream
+1013,John13,45,Female,Chennai,Electronics,24582,5,102,1,Keyboard
+1014,Kiran14,46,Female,Guntur,Electronics,29891,17,85,0,Keyboard
+1015,Deepika15,37,Female,Hyderabad,Grocery,25658,14,2,1,Oil Packet
+1016,Manoj16,50,Female,Vijayawada,Fashion,9472,4,66,0,T-Shirt
+1017,Divya17,22,Male,Guntur,Fashion,24017,17,177,0,Kurti
+1018,Sneha18,55,Female,Vijayawada,Grocery,41069,17,107,1,Oil Packet
+1019,Sai19,45,Female,Bangalore,Grocery,23185,1,124,0,Sugar
+1020,Divya20,58,Male,Guntur,Grocery,23476,1,105,1,Rice Bag
+1021,Arjun21,50,Female,Hyderabad,Beauty,21132,17,137,1,Face Cream
+1022,Arjun22,55,Male,Vijayawada,Fashion,34155,3,96,0,Kurti
+1023,Sai23,56,Male,Hyderabad,Grocery,40516,17,61,0,Rice Bag
+1024,Kiran24,33,Female,Vijayawada,Grocery,6362,18,155,1,Sugar
+1025,Arjun25,56,Female,Vijayawada,Grocery,36876,4,73,0,Oil Packet
+1026,Kiran26,23,Male,Guntur,Fashion,34901,15,117,1,T-Shirt
+1027,Deepika27,53,Male,Bangalore,Fashion,17684,11,17,1,Saree
+1028,Kiran28,51,Male,Bangalore,Electronics,21020,14,136,0,Headphones
+1029,Sita29,47,Female,Bangalore,Beauty,49583,18,177,1,Face Cream
+1030,Rahul30,46,Male,Hyderabad,Beauty,16070,12,95,0,Lipstick
+1031,Sneha31,28,Female,Chennai,Electronics,6053,2,115,1,Smart Watch
+1032,Kavya32,57,Male,Hyderabad,Grocery,12213,19,175,1,Sugar
+1033,Divya33,49,Male,Bangalore,Electronics,18887,20,42,1,Smart Watch
+1034,Sita34,19,Male,Guntur,Fashion,17722,7,1,0,Saree
+1035,Vamsi35,39,Male,Bangalore,Beauty,11438,17,94,1,Shampoo
+1036,Manoj36,18,Male,Hyderabad,Electronics,31683,6,143,0,Keyboard
+1037,Ravi37,28,Male,Hyderabad,Beauty,46985,20,101,1,Lipstick
+1038,Anjali38,40,Male,Hyderabad,Electronics,40949,3,14,1,Headphones
+1039,Manoj39,40,Female,Vijayawada,Fashion,31586,20,67,1,T-Shirt
+1040,Sita40,24,Female,Chennai,Grocery,25270,20,15,1,Oil Packet
+1041,Vamsi41,27,Male,Hyderabad,Fashion,30393,17,157,0,T-Shirt
+1042,Kavya42,37,Male,Guntur,Fashion,5295,13,6,1,Saree
+1043,Kavya43,26,Female,Hyderabad,Grocery,48588,11,39,0,Sugar
+1044,Vamsi44,59,Female,Bangalore,Fashion,21403,15,178,1,Saree
+1045,Kiran45,43,Female,Guntur,Beauty,40125,19,163,1,Lipstick
+1046,Ravi46,40,Female,Hyderabad,Beauty,6307,17,163,1,Face Cream
+1047,Pooja47,30,Male,Bangalore,Beauty,44851,2,153,1,Lipstick
+1048,Meena48,46,Male,Bangalore,Grocery,47978,20,114,1,Oil Packet
+1049,Nikhil49,42,Female,Bangalore,Electronics,39985,9,167,1,Headphones
+1050,Sai50,52,Male,Hyderabad,Fashion,26383,12,35,0,T-Shirt
+1051,Sneha51,19,Female,Hyderabad,Fashion,43573,17,157,0,Kurti
+1052,Priya52,23,Female,Bangalore,Fashion,11453,5,157,1,Saree
+1053,Deepika53,22,Male,Bangalore,Fashion,44920,7,84,0,Kurti
+1054,Kiran54,41,Male,Vijayawada,Fashion,9537,9,51,1,Saree
+1055,Anjali55,37,Male,Vijayawada,Beauty,6054,9,130,0,Lipstick
+1056,Sneha56,41,Female,Chennai,Fashion,42937,1,78,1,Kurti
+1057,Priya57,47,Male,Hyderabad,Electronics,4238,10,22,0,Headphones
+1058,John58,29,Male,Chennai,Electronics,13957,6,139,0,Keyboard
+1059,Anjali59,27,Female,Bangalore,Grocery,30212,3,18,0,Rice Bag
+1060,Charan60,31,Male,Vijayawada,Fashion,33160,13,64,0,Kurti
+1061,Deepika61,27,Male,Bangalore,Electronics,4262,17,114,1,Headphones
+1062,Manoj62,37,Male,Bangalore,Grocery,46383,15,85,1,Oil Packet
+1063,Nikhil63,30,Female,Chennai,Grocery,34406,15,24,1,Sugar
+1064,Sneha64,49,Female,Bangalore,Electronics,32014,2,79,0,Headphones
+1065,Pooja65,34,Female,Hyderabad,Grocery,36279,20,42,1,Oil Packet
+1066,Kavya66,36,Male,Hyderabad,Grocery,34523,8,59,1,Oil Packet
+1067,Priya67,52,Male,Bangalore,Fashion,49946,8,76,0,Kurti
+1068,Anjali68,54,Female,Guntur,Fashion,26911,12,147,1,Kurti
+1069,Deepika69,48,Male,Chennai,Grocery,42097,6,105,1,Rice Bag
+1070,Sita70,41,Female,Guntur,Electronics,23341,10,153,1,Smart Watch
+1071,Ravi71,22,Female,Hyderabad,Beauty,49075,14,76,0,Lipstick
+1072,John72,29,Female,Bangalore,Grocery,4159,5,17,0,Oil Packet
+1073,Anjali73,24,Female,Chennai,Electronics,8459,19,137,0,Keyboard
+1074,Arjun74,41,Male,Guntur,Fashion,35170,4,39,1,Saree
+1075,Anjali75,28,Male,Guntur,Electronics,49186,14,37,0,Headphones
+1076,Rahul76,56,Male,Guntur,Fashion,27349,6,151,0,Kurti
+1077,Deepika77,46,Male,Hyderabad,Electronics,18370,6,15,1,Smart Watch
+1078,Ravi78,27,Male,Vijayawada,Beauty,11710,10,108,0,Lipstick
+1079,Kiran79,47,Female,Hyderabad,Electronics,27091,12,55,1,Smart Watch
+1080,Divya80,46,Male,Vijayawada,Electronics,17923,9,136,0,Headphones
+1081,Asha81,52,Female,Hyderabad,Grocery,16487,12,156,1,Sugar
+1082,Charan82,57,Male,Chennai,Electronics,6733,3,133,1,Headphones
+1083,Priya83,47,Female,Bangalore,Electronics,9961,1,112,1,Keyboard
+1084,Sita84,24,Female,Vijayawada,Grocery,47588,1,9,1,Sugar
+1085,Arjun85,37,Male,Hyderabad,Fashion,22183,14,72,1,Kurti
+1086,Sai86,56,Female,Hyderabad,Beauty,2519,10,149,1,Face Cream
+1087,Sai87,43,Male,Chennai,Beauty,11506,15,58,1,Shampoo
+1088,Ravi88,44,Female,Chennai,Electronics,44963,9,29,0,Headphones
+1089,Sita89,38,Male,Guntur,Electronics,16606,1,50,1,Smart Watch
+1090,Charan90,21,Female,Vijayawada,Fashion,6485,3,18,0,T-Shirt
+1091,Kavya91,27,Female,Bangalore,Fashion,38255,8,113,0,Saree
+1092,Priya92,18,Male,Vijayawada,Electronics,37669,5,128,0,Headphones
+1093,Sneha93,37,Female,Chennai,Fashion,39609,6,177,1,T-Shirt
+1094,Sita94,32,Female,Vijayawada,Grocery,40983,9,27,0,Sugar
+1095,Divya95,59,Male,Bangalore,Electronics,40783,2,145,1,Keyboard
+1096,Sneha96,45,Female,Guntur,Beauty,29715,12,63,0,Shampoo
+1097,Kiran97,47,Female,Vijayawada,Grocery,36369,2,5,1,Oil Packet
+1098,Nikhil98,48,Male,Guntur,Electronics,30791,13,107,0,Smart Watch
+1099,Rahul99,21,Male,Hyderabad,Electronics,28845,13,139,0,Keyboard
+1100,Sneha100,54,Female,Vijayawada,Grocery,35807,3,173,0,Rice Bag

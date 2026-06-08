@@ -1,0 +1,11 @@
+customer_id,name,age,gender,city,category,total_spent,purchase_count,last_purchase_days,churn,product
+1101,Akhil,25,Male,Guntur,Electronics,15000,4,20,0,Keyboard
+1102,Nandini,22,Female,Hyderabad,Beauty,8000,3,15,0,Lipstick
+1103,Ramesh,31,Male,Bangalore,Grocery,12000,5,30,0,Rice Bag
+1104,Keerthi,27,Female,Chennai,Fashion,18000,7,10,0,Saree
+1105,Vinay,35,Male,Vijayawada,Electronics,25000,8,25,0,Smart Watch
+1106,Lavanya,24,Female,Guntur,Beauty,9000,4,18,0,Face Cream
+1107,Karthik,29,Male,Hyderabad,Fashion,14000,5,35,0,Kurti
+1108,Swathi,26,Female,Bangalore,Grocery,7000,2,40,1,Oil Packet
+1109,Mahesh,38,Male,Chennai,Electronics,30000,10,12,0,Headphones
+1110,Harika,23,Female,Vijayawada,Beauty,11000,5,8,0,Shampoo

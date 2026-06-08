@@ -1,0 +1,15 @@
+product_id,product_name,category,current_stock,min_stock,price
+1,Face Cream,Beauty,5,20,299
+2,Shampoo,Beauty,8,25,199
+3,Lipstick,Beauty,12,15,149
+4,Saree,Fashion,18,8,1200
+5,Kurti,Fashion,7,15,599
+6,Handbag,Fashion,15,10,999
+7,Jewellery,Fashion,10,8,1999
+8,Headphones,Electronics,30,10,999
+9,Smart Watch,Electronics,6,12,2499
+10,Keyboard,Electronics,4,10,799
+11,T-Shirt,Fashion,25,10,399
+12,Shoes,Fashion,20,10,1499
+13,Wallet,Fashion,15,8,699
+14,Trimmer,Electronics,12,5,1299
